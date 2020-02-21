@@ -1,5 +1,6 @@
 # Genetic-Algorithm
 A simple Genetic Algorithm implementation in Python
+
 Step1. Random Population
 Step2. Sorting
 Step3. Roulette Wheel for Mating Pool
